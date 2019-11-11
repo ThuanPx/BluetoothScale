@@ -36,4 +36,7 @@ dependencies {
 
     // Blessed Android
     implementation 'com.github.weliem:blessed-android:0.10'
+
+    implementation 'pub.devrel:easypermissions:3.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0-beta04'
 }

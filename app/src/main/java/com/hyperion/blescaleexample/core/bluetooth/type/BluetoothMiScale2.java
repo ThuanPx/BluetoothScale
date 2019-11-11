@@ -29,7 +29,6 @@ import com.hyperion.blescaleexample.core.datatypes.ScaleMeasurement;
 import com.hyperion.blescaleexample.core.datatypes.ScaleUser;
 import com.hyperion.blescaleexample.core.utils.Converters;
 
-import java.io.UnsupportedEncodingException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
